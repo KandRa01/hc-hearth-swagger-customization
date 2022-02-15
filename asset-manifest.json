@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hc-hearth-swagger-customization/static/css/main.9408a911.css",
+    "main.js": "/hc-hearth-swagger-customization/static/js/main.5fca1bff.js",
+    "static/js/107.bc90f06b.chunk.js": "/hc-hearth-swagger-customization/static/js/107.bc90f06b.chunk.js",
+    "static/media/logo.svg": "/hc-hearth-swagger-customization/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hc-hearth-swagger-customization/index.html",
+    "main.9408a911.css.map": "/hc-hearth-swagger-customization/static/css/main.9408a911.css.map",
+    "main.5fca1bff.js.map": "/hc-hearth-swagger-customization/static/js/main.5fca1bff.js.map",
+    "107.bc90f06b.chunk.js.map": "/hc-hearth-swagger-customization/static/js/107.bc90f06b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9408a911.css",
+    "static/js/main.5fca1bff.js"
+  ]
+}
