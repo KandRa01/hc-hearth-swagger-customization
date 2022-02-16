@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/hc-hearth-swagger-customization/static/css/main.9408a911.css",
-    "main.js": "/hc-hearth-swagger-customization/static/js/main.b1ba5d00.js",
-    "static/js/107.bc90f06b.chunk.js": "/hc-hearth-swagger-customization/static/js/107.bc90f06b.chunk.js",
+    "main.js": "/hc-hearth-swagger-customization/static/js/main.fb136380.js",
+    "static/js/64.429202d7.chunk.js": "/hc-hearth-swagger-customization/static/js/64.429202d7.chunk.js",
+    "static/media/openapi-docs.yml": "/hc-hearth-swagger-customization/static/media/openapi-docs.371319ab15102906e330.yml",
     "static/media/logo.svg": "/hc-hearth-swagger-customization/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hc-hearth-swagger-customization/index.html",
     "main.9408a911.css.map": "/hc-hearth-swagger-customization/static/css/main.9408a911.css.map",
-    "main.b1ba5d00.js.map": "/hc-hearth-swagger-customization/static/js/main.b1ba5d00.js.map",
-    "107.bc90f06b.chunk.js.map": "/hc-hearth-swagger-customization/static/js/107.bc90f06b.chunk.js.map"
+    "main.fb136380.js.map": "/hc-hearth-swagger-customization/static/js/main.fb136380.js.map",
+    "64.429202d7.chunk.js.map": "/hc-hearth-swagger-customization/static/js/64.429202d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9408a911.css",
-    "static/js/main.b1ba5d00.js"
+    "static/js/main.fb136380.js"
   ]
 }
